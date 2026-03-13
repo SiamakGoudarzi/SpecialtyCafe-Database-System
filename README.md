@@ -57,3 +57,10 @@
 ---
 **Developed by:** Siamak Goudarzi  
 **Project:** Premium CRM Database for "Teheran to Tokyo" Café Berlin.
+
+---
+
+## ⚖️ License / Lizenz
+**English:** This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**Deutsch:** Dieses Projekt ist unter der **MIT-Lizenz** lizenziert - siehe die [LICENSE](LICENSE)-Datei für Details.
