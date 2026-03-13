@@ -25,7 +25,6 @@
 
 ### 03-Diagrams
 - `ERD-Diagram.png`: Entity Relationship Diagram for visual database overview.
-- `UseCase-Analysis.png`: Visual representation of actor interactions.
 
 ### 04-Test-Protocols
 - `008-Tests.sql`: 9-step validation script covering all business rules and integrity tests.
