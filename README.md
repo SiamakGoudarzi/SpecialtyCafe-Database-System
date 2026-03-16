@@ -1,4 +1,4 @@
-# CafeCRM – Integrated Management System (Teheran to Tokyo)
+# Café Teheran to Tokyo – CRM & Database Architecture
 
 ## Project Context / Projektkontext
 **English:** This repository is the technical realization of the "Café Teheran to Tokyo" CRM system. It transforms strategic business analysis into a robust SQL Server database. This implementation covers the full lifecycle from business logic to database automation.
